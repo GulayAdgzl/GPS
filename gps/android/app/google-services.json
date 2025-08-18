@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120502007554",
+    "project_id": "gpsproject-ddea9",
+    "storage_bucket": "gpsproject-ddea9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120502007554:android:954a60ac8f70f11caef41b",
+        "android_client_info": {
+          "package_name": "com.example.gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-BjXJVi7u7KNigAIznDcnQi6nhzKNrUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
